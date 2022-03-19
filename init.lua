@@ -6,7 +6,11 @@ local core = require "core"
 local keymap = require "core.keymap"
 local config = require "core.config"
 local style = require "core.style"
-
+  
+------------------------------ Config ----------------------------------------
+config.indent_size = 4  
+config.borderless = true
+    
 ------------------------------ Themes ----------------------------------------
 
 -- light theme:

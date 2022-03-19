@@ -1,1 +1,1 @@
-return {recents={[1]="/home/abdulkalam/.config"}, window={[1]=1536,[2]=864,[3]=196,[4]=154,["n"]=4}, window_mode="normal", previous_find={}, previous_replace={}}
+return {recents={[1]="/home/abdulkalam/.config/lite-xl/plugins",[2]="/home/abdulkalam/.config"}, window={[1]=1536,[2]=864,[3]=192,[4]=108,["n"]=4}, window_mode="normal", previous_find={[1]="int"}, previous_replace={}}
