@@ -1,7 +1,0 @@
-[?2004h]0;abdulkalam@Home: ~/.config/lite-xl/plugins[01;32mabdulkalam@Home[00m:[01;34m~/.config/lite-xl/plugins[00m$ ls
-[?2004lautoinsert.lua    indent_convert.lua  select_colorscheme.lua
-bracketmatch.lua  lfautoinsert.lua    selectionhighlight.lua
-ghmarkdown.lua    log.txt             test.c
-hidestatus.lua    opacity.lua         test.md
-[?2004h]0;abdulkalam@Home: ~/.config/lite-xl/plugins[01;32mabdulkalam@Home[00m:[01;34m~/.config/lite-xl/plugins[00m$ rm [K opacity.lua 
-[?2004l[?2004h]0;abdulkalam@Home: ~/.config/lite-xl/plugins[01;32mabdulkalam@Home[00m:[01;34m~/.config/lite-xl/plugins[00m$ 
