@@ -1,1 +1,1 @@
-return { path = "/home/abdulkalam/.config", documents = {["type"]="leaf",["views"]={}}, directories = {} }
+return { path = "/home/abdulkalam/.config", documents = {["views"]={},["type"]="leaf"}, directories = {} }
